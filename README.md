@@ -6,5 +6,5 @@
 | :---       |     :---:             |     :---:          |     :---:      
 | 17.1.2025  | 3 | Introduction to Cybersecurity  | learning  |                
 | 17.1.2025 | 2 | Kick-off lecture  | Lecture   |                
-| 30.10.2024 | 2 | Kick-off lecture  | Lecture recording  |                
-| 30.10.2024 | 2 | Kick-off lecture  | Lecture recording  |                
+|  |  |   |   |                
+|  |  |  |   |                
