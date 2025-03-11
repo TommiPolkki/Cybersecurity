@@ -38,5 +38,9 @@ Kirjatessa sisään on mahdollista keskeyttää tapahtuma ja muuttaa salasana pa
 Path Traversal
 
 On mahdollista saada pääsy tiedostoihin, hakemistoihin ja komentoihin. Hyökkääjä voi manipuloida URL-osoitetta, että verkkosivusto paljastaa tiedostojen sisällön.
- 
+
+Appendice: Checkmarx ZAPv1.md 
+
 # kierros 2
+
+Appendice: Checkmarx ZAPv2.md
