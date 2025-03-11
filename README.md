@@ -15,6 +15,10 @@
 | 8.2.2025 | 1 | Lab: 2FA simple bypass  | learning  |
 | 8.2.2025 | 1 | Unprotected admin functionality  | learning  |
 | 8.2.2025 | 1 | Lab: Unprotected admin functionality with unpredictable URL  | learning  |
-| 16.2.2025 | 3 | penetration testing  | learning  |
-| 17.2.2025 | 3 | penetration testing  | learning  |
-| 18.2.2025 | 2 | penetration testing  | learning  |
+| 16.2.2025 | 3 | penetration testing  | Testing  |
+| 17.2.2025 | 3 | penetration testing  | Testing  |
+| 18.2.2025 | 4 | penetration testing  | Testing  |
+| 11.3.2025 | 1 | penetration testingv korjaus  | Testing  |
+| 2.3.2025 | 4 | Phase1v2  | Testing  |
+| 3.3.2025 | 2 | Phase1v2  | Testing  |
+| 11.3.2025 | 3 | Phase1v2 korjaus  | Testing  |
