@@ -7,7 +7,7 @@ Tarkoituksena on testata ohjelmaa, johon voidaan syöttää nimi, salasana ja ik
 
 ## Aikataulu
 
-Aloitan työskentelyn 14.2.2025 ja lopetan 20.2.2025 työskentelen testauksen parissa 1-2 tuntia päivässä, tarpeen mukaan. Testaus ympäristönä toimii johdannossa mainittu Kali.
+Aloitan työskentelyn 14.2.2025 ja lopetan 20.2.2025 työskentelen testauksen parissa 1-2 tuntia päivässä, tarpeen mukaan. Testaus ympäristönä toimii johdannossa mainittu Kali. Toinen testaus kierros 2-3.3.2025
 
 
 ## Testaus
@@ -24,6 +24,8 @@ On mahdollista päästä käsiksi ohjelman tallentamiin tietoihin ja käyttää 
 
 ## Löydöt
 
+# kierros 1
+
 Format String Error
 
 Ohjelma hyväksyy merkkijonon argumenttina, mutta se on peräisin ulkoisestalähteestä. Voidaan muokata ohjattua merkkijonoa ja tämä johtaa että ohjelma esittää tietoja, jotka pitäisi olla suojattuja eikä näkyvillä kaikille
@@ -36,3 +38,5 @@ Kirjatessa sisään on mahdollista keskeyttää tapahtuma ja muuttaa salasana pa
 Path Traversal
 
 On mahdollista saada pääsy tiedostoihin, hakemistoihin ja komentoihin. Hyökkääjä voi manipuloida URL-osoitetta, että verkkosivusto paljastaa tiedostojen sisällön.
+
+# kierros 2
