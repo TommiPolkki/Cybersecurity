@@ -5,7 +5,7 @@ Tommi Pölkki
 Tarkoituksena on testata ohjelmaa, johon voidaan syöttää nimi, salasana ja ikä sekä rooli, varaaja tai admin. Työ kaluina käytän Virtual Boksia johon asensin kalin. Kalissa käytän ZaProxy ohjelmaa jolla voidaan etsiä haavoituvvuuksia ohjelmasta. Ensimmäisellä kerralla testaan vain helposti huomattavia ongelmia joita ohjelman turvallisuuteen liitty.
 
 
-##A ikataulu
+## Aikataulu
 
 Aloitan työskentelyn 14.2.2025 ja lopetan 20.2.2025 työskentelen testauksen parissa 1-2 tuntia päivässä, tarpeen mukaan. Testaus ympäristönä toimii johdannossa mainittu Kali.
 
