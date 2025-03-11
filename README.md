@@ -14,7 +14,8 @@
 | 8.2.2025 | 1 | Username enumeration via different responses  | learning  |
 | 8.2.2025 | 1 | Lab: 2FA simple bypass  | learning  |
 | 8.2.2025 | 1 | Unprotected admin functionality  | learning  |
-| 8.2.2025 | 1 | Lab: Unprotected admin functionality with unpredictable URL  | learning  |
+| 8.2.2025 | 2 | Lab: Unprotected admin functionality with unpredictable URL  | learning  |
+| 8.2.2025 | 4 | Labraraportin kirjoittaminen  | Raportti  |
 | 16.2.2025 | 3 | penetration testing  | Testing  |
 | 17.2.2025 | 3 | penetration testing  | Testing  |
 | 18.2.2025 | 4 | penetration testing  | Testing  |
