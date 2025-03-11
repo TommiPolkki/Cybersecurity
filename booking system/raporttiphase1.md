@@ -1,28 +1,28 @@
 Tommi Pölkki
 
-Johdanto
+##Johdanto
 
 Tarkoituksena on testata ohjelmaa, johon voidaan syöttää nimi, salasana ja ikä sekä rooli, varaaja tai admin. Työ kaluina käytän Virtual Boksia johon asensin kalin. Kalissa käytän ZaProxy ohjelmaa jolla voidaan etsiä haavoituvvuuksia ohjelmasta. Ensimmäisellä kerralla testaan vain helposti huomattavia ongelmia joita ohjelman turvallisuuteen liitty.
 
 
-Aikataulu
+##Aikataulu
 
 Aloitan työskentelyn 14.2.2025 ja lopetan 20.2.2025 työskentelen testauksen parissa 1-2 tuntia päivässä, tarpeen mukaan. Testaus ympäristönä toimii johdannossa mainittu Kali.
 
 
-Testaus
+##Testaus
 
 Testasin ohjelmaa Zaproxy ohjelmallla.
 
 Etsin Zaproxylla ohjelmasta sql injektiolla, mahdollisia tapoja keskeyttää kirjotuminen ja saada kirjautumis- tiedot. Koitin saada jo tallennettuja tietoja tunkeutumalla ohjelman tallentamiin tietoihin.
 
 
-Yhteenveto
+##Yhteenveto
 
 On mahdollista päästä käsiksi ohjelman tallentamiin tietoihin ja käyttää niitä. Tietoja voidaan hankkia keskeyttämällä kirjautuminen, muuttamalla salasanan parametrejä ja jatkaa kirjautumis- prosessia, jolloin ohjelma ei tunnista tätä virheelliseksi. Hyökkäyksellä voidaan muokata formaattia, joka johtaa bufferointi virheisiin. Tällä hetkellä ohjelman tietoturva on heikko ja vaatii paljon parannuksia.
 
 
-Löydöt
+##Löydöt
 
 Format String Error
 
