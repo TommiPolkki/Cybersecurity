@@ -42,6 +42,8 @@ On mahdollista saada pääsy tiedostoihin, hakemistoihin ja komentoihin. Hyökk�
 Appendice: Checkmarx ZAPv1.md 
 
 # kierros 2
-Suurin osa edellisen kierroksen haavoituvuuksista on postunut, eli korjaukset ovat toimivia. Automaattinen skannaus ei anna suoraan alertteja, mutta mahdollisia haavoituvuuksia edelleen löytyy, joita pitää tarkastella jatkossa seuraavissa tarkituksissa. 
+Suurin osa edellisen kierroksen haavoituvuuksista on postunut, eli korjaukset ovat toimivia. Automaattinen skannaus ei anna suoraan alertteja, mutta mahdollisia haavoituvuuksia edelleen löytyy, joita pitää tarkastella jatkossa seuraavissa tarkituksissa.
+
+
 
 Appendice: Checkmarx ZAPv2.md
