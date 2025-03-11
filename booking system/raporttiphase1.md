@@ -38,5 +38,5 @@ Kirjatessa sisään on mahdollista keskeyttää tapahtuma ja muuttaa salasana pa
 Path Traversal
 
 On mahdollista saada pääsy tiedostoihin, hakemistoihin ja komentoihin. Hyökkääjä voi manipuloida URL-osoitetta, että verkkosivusto paljastaa tiedostojen sisällön.
-
+ 
 # kierros 2
