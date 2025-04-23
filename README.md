@@ -28,3 +28,4 @@
 | 19.4.2025 | 3 | final assignment  | Doing assigment  |
 | 20.4.2025 | 3 | final assignment  | Doing assigment  |
 | 23.4.2025 | 3 | final assignment  | Doing assigment  |
+| 23.4.2025 | 1 | correcting and updating logbook  | Doing assigment  |
